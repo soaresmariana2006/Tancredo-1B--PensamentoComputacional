@@ -1,3 +1,7 @@
 body{
+    text-align: center;
     background: #ffc8dd;
+}
+.capa{
+    width: 70%;
 }
